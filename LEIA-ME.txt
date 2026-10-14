@@ -1,3 +1,0 @@
-Abra esta pasta no VS Code e rode o index.html com a extensao Live Server. O site está em HTML, CSS e JS puros. Nao precisa de npm, Node ou build.
-
-Observacao: o layout foi redesenhado com linguagem visual original inspirada em sites corporativos, sem copiar integralmente terceiros.
